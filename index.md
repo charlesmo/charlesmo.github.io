@@ -6,17 +6,16 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Brief Bio
 
-I am currently a master studect major in Computer Science at University of St. Andrews. Previously, I obtained my first Master's degree from the GRASP Lab at University of Pennsylvania, where I developed data-efficient methods for learning controllers for bipedal locomotion (with Akshara Rai and Chris Atkeson). During my time at CMU, my advisor was Emma Brunskill, and in her group I also worked on data-efficient reinforcement learning. I got my bachelor's degree at Shanghai Jiaotong University major in Mechaotrincs.
+I am currently a master studect major in Computer Science at University of St. Andrews. Previously, I obtained my first Master's degree from the [GRASP Lab](https://www.grasp.upenn.edu/) at University of Pennsylvania, where I developed controller for off-the-shlef quadroter based on real-time estimation and path planning (with Dr. Sikang Liu). I got my bachelor's degree at Shanghai Jiaotong University major in Mechaotrincs.
 
-From 2017 to 2022, I started a tech company in Shanghai, where we focused on developing one of the very first multi-robot automation systems in China for warehouse industry. We were able to raised 4 million USD in total from top-tier global VC funds and obtained commercial contracts valued over 2 million USD from companies including Nike, Alibaba and Nestle.
+From 2017 to 2022, I started a tech company called Proton Robotics LTD in Shanghai. As the CEO, I led the team developing one of the very first multi-robot automation systems in China for warehouse industry. We were raised 4 million USD in total from top-tier global VC funds, lauched the product onto the market and obtained commercial contracts valued over 2 million USD from companies including Nike, Alibaba and Nestle.
 
-## Header 2
+* * *
+
+# Research/Project experience
 
 > This is a blockquote following a header.
 >
