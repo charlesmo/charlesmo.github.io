@@ -13,6 +13,8 @@ From 2017 to 2022, I started a tech company called Proton Robotics LTD in Shangh
 
 Upenn Robockey tournament championship
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t3lXov9q2Og?si=voNae0FwoSocYEi8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 [![Final video of fixing issues in your code in VS Code]
 (https://img.youtube.com/vi/t3lXov9q2Og/maxresdefault.jpg)]
 (https://www.youtube.com/watch?v=t3lXov9q2Og)
