@@ -10,13 +10,13 @@ From 2017 to 2022, I started a tech company called Proton Robotics LTD in Shangh
 My research interests lie in machine intelligence, with a special focus on collaborative intelligence and multi-robot system. My long term goal is to better understand the mechanism behind the learning algorithm and improve the efficiency and rubustness for multi-robot system.
 
 
-
 * * *
 
 # Research/Project experience
 
 ### Proton Robotics multi-robot System for Duty Free goods sorting at Hainan Airport
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_dR4RdRS9KA?si=n0hIZWURGKzp0wKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ### Upenn Robockey tournament championship
 
