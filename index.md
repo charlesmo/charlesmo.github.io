@@ -10,9 +10,11 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Brief Bio
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I am currently a master studect major in Computer Science at University of St. Andrews. Previously, I obtained my first Master's degree from the GRASP Lab at University of Pennsylvania, where I developed data-efficient methods for learning controllers for bipedal locomotion (with Akshara Rai and Chris Atkeson). During my time at CMU, my advisor was Emma Brunskill, and in her group I also worked on data-efficient reinforcement learning. I got my bachelor's degree at Shanghai Jiaotong University major in Mechaotrincs.
+
+From 2017 to 2022, I started a tech company in Shanghai, where we focused on developing one of the very first multi-robot automation systems in China for warehouse industry. We were able to raised 4 million USD in total from top-tier global VC funds and obtained commercial contracts valued over 2 million USD from companies including Nike, Alibaba and Nestle.
 
 ## Header 2
 
